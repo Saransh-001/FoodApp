@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="location">Location</string>
+    <string name="location_address">2972 Westheimer Rd, Santa Ana</string>
+</resources>
