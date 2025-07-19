@@ -14,3 +14,9 @@ A modern food delivery-style Android app built using Jetpack Compose. This proje
 - Open in Android Studio  <br>
 - Sync Gradle  <br>
 - Run on emulator or device  
+
+<h2>Screen Recording</h2>
+
+
+https://github.com/user-attachments/assets/aa3a376c-9dff-42e5-af4a-fc5eb9a78875
+
